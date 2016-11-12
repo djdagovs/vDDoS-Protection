@@ -22,6 +22,8 @@ yum -y install curl wget gc gcc gcc-c++ pcre-devel zlib-devel make wget openssl-
 ----------
 Install
 -------------
+
+Example System CentOS 7 x86_64 install vDDoS 1.10.1 Version (vddos-1.10.1-centos7):
 ```
 curl -L https://github.com/duy13/vDDoS-Protection/raw/master/vddos-1.10.1-centos7 -o /usr/bin/vddos
 chmod 700 /usr/bin/vddos
@@ -46,7 +48,7 @@ your-domain.com https://0.0.0.0:443  https://127.0.0.1:8443   no    307      /vd
 your-domain.com https://0.0.0.0:4343 https://103.28.249.200:443 yes   click    /vddos/ssl/your-domain.com.pri /vddos/ssl/your-domain.com.crt
 
 ```
-Save config Website.conf.
+Save config Website.conf
 
 Restart vDDoS:
 ```
@@ -69,7 +71,7 @@ Example:
 ```
 # Website       Listen               Backend                  Cache Security SSL-Prikey   SSL-CRTkey
 default         http://0.0.0.0:80    http://127.0.0.1:8080    no    200      no           no
-default         https://0.0.0.0:443    http://127.0.0.1:8443    no    200      no           no
+default         https://0.0.0.0:443    http://127.0.0.1:8443    no    200      /vddos/ssl/your-domain.com.pri /vddos/ssl/your-domain.com.crt
 ```
 Listen:
 ---------------
@@ -85,7 +87,7 @@ Sets IP & Port listen.
 
 Cache:
 ---------------
-**variable:** *yes, no*
+**variable:** *no, yes*
 
 Sets proxy cache website on vDDoS.
 
