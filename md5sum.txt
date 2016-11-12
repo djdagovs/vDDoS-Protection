@@ -1,10 +1,16 @@
 d172bcc570e0e78087a13025c803e424  ab.zip
 8f45388d05600ea154384bf6a308a15b  aes.min.js.txt
 bf161aa07544fa822ee1470c70cb434d  md5sum.txt
+a2b5cc35aca2f364d5e9c79550736f2d  README.md
 9df5529ec4941aa7cf0750f19f46438a  user-agents1.txt
 1c42d83cbc1d5cff8baa5bf22858e029  user-agents2.txt
 3d6600598df1da8793ba17a98814d992  user-agents3.txt
-435edf2f72703f08317da4e720eddb57  vddos-1.10.1-centos7
+97a0319fd224aaef77f564c8e03b9d2f  vddos-1.10.1-centos5
+e2aff6f423a2ef49c5aa333b14aa2ca4  vddos-1.10.1-centos6
+555d683ddbd26cc53d7d0d1597a85d86  vddos-1.10.1-centos7
+01347c6db1a92fd546d8ff61330e18ab  vddos-1.10.1-cloudlinux5
+6782cc7e1b735a7382dbbdda2621b232  vddos-1.10.1-cloudlinux6
+852d9389061bd002b49cefdfedca10ce  vddos-1.10.1-cloudlinux7
 297cab1c6ce8b86d504c3a4a253f3fab  vddos-1.10.1.tar.gz
 a065128979999384485bf94806e9c82c  vddos-1.10.1.tar.gz-22-10-2016
 845d200caff769f035dbaf539a6cb710  vddos-1.10.1.tar.gz-29-10-2016
