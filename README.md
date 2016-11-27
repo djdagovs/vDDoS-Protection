@@ -83,7 +83,7 @@ Backend:
 ---------------
 **variable:** *http://123.234.012.321:80, https://123.234.012.321:443, http://127.0.0.1:8080*
 
-Sets IP & Port listen.
+Sets Real IP & Port Backend Service.
 
 Cache:
 ---------------
