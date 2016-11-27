@@ -35,10 +35,10 @@ chmod 700 /usr/bin/vddos
 ----------
 Using
 -------------
-Example Edit Website.conf:
+Example Edit website.conf:
 
 ```
-# nano /vddos/conf.d/Website.conf
+# nano /vddos/conf.d/website.conf
 
 # Website       Listen               Backend                  Cache Security SSL-Prikey   SSL-CRTkey
 default         http://0.0.0.0:80    http://127.0.0.1:8080    no    200      no           no
@@ -48,7 +48,7 @@ your-domain.com https://0.0.0.0:443  https://127.0.0.1:8443   no    307      /vd
 your-domain.com https://0.0.0.0:4343 https://103.28.249.200:443 yes   click    /vddos/ssl/your-domain.com.pri /vddos/ssl/your-domain.com.crt
 
 ```
-Save config Website.conf
+Save config website.conf
 
 Restart vDDoS:
 ```
@@ -59,7 +59,7 @@ vddos restart
 Explain Config:
 -------------
 ```
-nano /vddos/conf.d/Website.conf
+nano /vddos/conf.d/website.conf
 ```
 Website:
 ---------------
