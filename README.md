@@ -45,7 +45,7 @@ default         http://0.0.0.0:80    http://127.0.0.1:8080    no    200      no 
 your-domain.com http://0.0.0.0:80    http://127.0.0.1:8080    no    200      no           no
 default         https://0.0.0.0:443  https://127.0.0.1:8443   no    307      /vddos/ssl/your-domain.com.pri /vddos/ssl/your-domain.com.crt
 your-domain.com https://0.0.0.0:443  https://127.0.0.1:8443   no    307      /vddos/ssl/your-domain.com.pri /vddos/ssl/your-domain.com.crt
-your-domain.com https://0.0.0.0:4343 https://103.28.249.200:443 yes   click    /vddos/ssl/your-domain.com.pri /vddos/ssl/your-domain.com.crt
+your-domain.com https://0.0.0.0:4343 https://103.28.249.200:443 yes click    /vddos/ssl/your-domain.com.pri /vddos/ssl/your-domain.com.crt
 
 ```
 Save config website.conf
@@ -71,7 +71,7 @@ Example:
 ```
 # Website       Listen               Backend                  Cache Security SSL-Prikey   SSL-CRTkey
 default         http://0.0.0.0:80    http://127.0.0.1:8080    no    200      no           no
-default         https://0.0.0.0:443    http://127.0.0.1:8443    no    200      /vddos/ssl/your-domain.com.pri /vddos/ssl/your-domain.com.crt
+default         https://0.0.0.0:443  https://127.0.0.1:8443   no    200      /vddos/ssl/your-domain.com.pri /vddos/ssl/your-domain.com.crt
 ```
 Listen:
 ---------------
