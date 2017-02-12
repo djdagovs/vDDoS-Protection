@@ -14,11 +14,11 @@ df9c82f891ba8186eac92a13da5b8a9e  vddos-1.10.1-cloudlinux5
 297cab1c6ce8b86d504c3a4a253f3fab  vddos-1.10.1.tar.gz
 a065128979999384485bf94806e9c82c  vddos-1.10.1.tar.gz-22-10-2016
 845d200caff769f035dbaf539a6cb710  vddos-1.10.1.tar.gz-29-10-2016
-2ec2c31a55d782fe48137a78222671f0  vddos-1.10.2-centos5
-13f84ecaceef331cace63ccf4d278b27  vddos-1.10.2-centos6
-3028bc13e01f5c4a5b1f2efe515e9565  vddos-1.10.2-centos7
-df3b429605a2a563b8cc4cb90c7f6053  vddos-1.10.2-cloudlinux5
-9d43ae74106d2025c7cef480eb537283  vddos-1.10.2-cloudlinux6
-4a816b7856749a36b8cd5215b80235eb  vddos-1.10.2-cloudlinux7
+9a241b7035456d3e6b163dfe2fb39072  vddos-1.10.2-centos5
+8487ef390893d46403957f259c0c5479  vddos-1.10.2-centos6
+c4265a5e61c7b944c22c794d8a344748  vddos-1.10.2-centos7
+bbba8295ebf8b4d4991d5756db76e3e6  vddos-1.10.2-cloudlinux5
+59b0b7763481cf61779874fe167171bc  vddos-1.10.2-cloudlinux6
+4454e2929b5bfe9cd62dfc4de1e10e6c  vddos-1.10.2-cloudlinux7
 328b336cbe6e08738145b2c63b4b6626  vddos-1.10.2.tar.gz
 50f8880098a324634ac6a837bce6ae3d  vddosw3data.js.txt
