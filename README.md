@@ -23,9 +23,9 @@ yum -y install curl wget gc gcc gcc-c++ pcre-devel zlib-devel make wget openssl-
 Install
 -------------
 
-Example System CentOS 7 x86_64 install vDDoS 1.12.0 Version (vddos-1.12.0-centos7):
+Example System CentOS 7 x86_64 install vDDoS 1.12.0 Version (vddos-1.13.0-centos7):
 ```
-curl -L https://github.com/duy13/vDDoS-Protection/raw/master/vddos-1.12.0-centos7 -o /usr/bin/vddos
+curl -L https://github.com/duy13/vDDoS-Protection/raw/master/vddos-1.13.0-centos7 -o /usr/bin/vddos
 chmod 700 /usr/bin/vddos
 /usr/bin/vddos help
 
@@ -117,5 +117,5 @@ More Config:
 ---------------
 Document: http://vddos.voduy.com
 ```
-Still in beta, run at own risk! This it provided without any warranty!
+Still in beta, use at your own risk! It is provided without any warranty!
 ```

@@ -1,7 +1,7 @@
 d172bcc570e0e78087a13025c803e424  ab.zip
 8f45388d05600ea154384bf6a308a15b  aes.min.js.txt
 bf161aa07544fa822ee1470c70cb434d  md5sum.txt
-a2c27a5618219f0fc66499d7ac78177d  README.md
+5bd9a3a2d1632827afa6d7b8ff2597b2  README.md
 9df5529ec4941aa7cf0750f19f46438a  user-agents1.txt
 1c42d83cbc1d5cff8baa5bf22858e029  user-agents2.txt
 3d6600598df1da8793ba17a98814d992  user-agents3.txt
@@ -12,8 +12,6 @@ df9c82f891ba8186eac92a13da5b8a9e  vddos-1.10.1-cloudlinux5
 0e1adfedb916ca304c9a17c4c3e3133a  vddos-1.10.1-cloudlinux6
 6ccccb95adc033e0522eb7da867a6466  vddos-1.10.1-cloudlinux7
 297cab1c6ce8b86d504c3a4a253f3fab  vddos-1.10.1.tar.gz
-a065128979999384485bf94806e9c82c  vddos-1.10.1.tar.gz-22-10-2016
-845d200caff769f035dbaf539a6cb710  vddos-1.10.1.tar.gz-29-10-2016
 9a241b7035456d3e6b163dfe2fb39072  vddos-1.10.2-centos5
 8487ef390893d46403957f259c0c5479  vddos-1.10.2-centos6
 c4265a5e61c7b944c22c794d8a344748  vddos-1.10.2-centos7
@@ -28,4 +26,11 @@ a23d83b7342317fce426d5c324412091  vddos-1.12.0-cloudlinux5
 3f9c039c88b11d55e932dc1f92ae641a  vddos-1.12.0-cloudlinux6
 09cd7afc731a047c4943b2a135dc6da1  vddos-1.12.0-cloudlinux7
 8100f367fdb365ce182b05295e887a9c  vddos-1.12.0.tar.gz
+f3f72eb074874b509e3b314f2356e3c5  vddos-1.13.0-centos5
+4449e16d889ffaa087fc317a9c61dd07  vddos-1.13.0-centos6
+dcd200041a7467009451b0d2ea871333  vddos-1.13.0-centos7
+10a9eedc94ded733177e8f6aeece48d2  vddos-1.13.0-cloudlinux5
+4875f62ce4cc9da23aecdd6566161f5c  vddos-1.13.0-cloudlinux6
+e74f95ad646c88429183016c88f164be  vddos-1.13.0-cloudlinux7
+f0575fde374fbb7280375fceaa82f3ca  vddos-1.13.0.tar.gz
 50f8880098a324634ac6a837bce6ae3d  vddosw3data.js.txt
