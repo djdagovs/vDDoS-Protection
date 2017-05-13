@@ -1,4 +1,7 @@
-vDDoS Protection
+<div alt="vDDoS Proxy Protection Logo" class="separator" style="clear: both; text-align: center;">
+<a href="https://lh4.googleusercontent.com/-eTeYLP6S_58/WRb97Hrfv9I/AAAAAAAABgs/kxmdPf-hLngVPtg9InzvdKkihBkVv-6WwCLcB/s1600/vDDoS-Proxy-Protection-Icon-Logo-voduy.com-5.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img align="right" border="0" src="https://lh4.googleusercontent.com/-eTeYLP6S_58/WRb97Hrfv9I/AAAAAAAABgs/kxmdPf-hLngVPtg9InzvdKkihBkVv-6WwCLcB/s222/vDDoS-Proxy-Protection-Icon-Logo-voduy.com-5.png" /></a></div>
+
+vDDoS Proxy Protection
 ===================
 
 
@@ -119,3 +122,4 @@ Document: http://vddos.voduy.com
 ```
 Still in beta, use at your own risk! It is provided without any warranty!
 ```
+
