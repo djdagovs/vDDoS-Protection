@@ -3,7 +3,7 @@
 +Fix bug
 +WAF Naxsi
 +Nginx-1.13.0
-+Openssl-1.0.2k
++Openssl-1.0.2l
 +Python-2.7.13
 +HTTP/2 & Score an "A" (ssllabs.com)
 +Obfuscate Deep Javascript (5s+ & high+ Security Mode)
