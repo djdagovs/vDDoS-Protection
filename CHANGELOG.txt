@@ -1,3 +1,11 @@
+*vDDoS-1.13.1:
++Fix bug
++Nginx-1.13.1
++Openssl-1.0.2l
++Python-2.7.13
++TCP/UDP Proxy support
++Monitor module (WebGUI traffic status)
+
 
 *vDDoS-1.13.0:
 +Fix bug
@@ -17,12 +25,14 @@
 +Python-2.7.13
 +Captcha update
 
+
 *vDDoS-1.10.2:
 +Fix bug
 +Fix GET/POST
 +Nginx-1.10.2
 +Openssl-1.0.2k
 +Python-2.7.13
+
 
 *vDDoS-1.10.1:
 +Fix bug
