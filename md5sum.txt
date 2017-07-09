@@ -41,5 +41,5 @@ ab4333b1434e47becc91b0faba8cba7c  vddos-1.13.1-cloudlinux5
 834fd1ea3c1b80d4ec270f88fd51e561  vddos-1.13.1-cloudlinux6
 942e61d604180f7711da42f8795701a4  vddos-1.13.1-cloudlinux7
 104f87dbba83b5b8bcaf629a985c513c  vddos-1.13.1.tar.gz
-4234a594bb6d67786e266a09a290b19f  vddos-1.13.2.tar.gz
+f079938ebecbf096bb8a14b50487327d  vddos-1.13.2.tar.gz
 50f8880098a324634ac6a837bce6ae3d  vddosw3data.js.txt
