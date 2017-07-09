@@ -1,3 +1,14 @@
+*vDDoS-1.13.2:
++Fix bug
++Fix Javascript turn on
++Custom HTTP status code 307 (All challenge)
++Nginx-1.13.2
++Openssl-1.0.2l
++Python-2.7.13
++Set cookie expires (Thu, 31-Dec-37 23:55:55 GMT) (All challenge)
++Monitor maintain statistics data permanently (WebGUI traffic status )
+
+
 *vDDoS-1.13.1:
 +Fix bug
 +Nginx-1.13.1
