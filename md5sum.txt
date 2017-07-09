@@ -41,11 +41,11 @@ ab4333b1434e47becc91b0faba8cba7c  vddos-1.13.1-cloudlinux5
 834fd1ea3c1b80d4ec270f88fd51e561  vddos-1.13.1-cloudlinux6
 942e61d604180f7711da42f8795701a4  vddos-1.13.1-cloudlinux7
 104f87dbba83b5b8bcaf629a985c513c  vddos-1.13.1.tar.gz
-0f89cc365c026e8cd37b20552bcfcc0d  vddos-1.13.2-centos5
-f9a431169b970625f9fe1838c59a5825  vddos-1.13.2-centos6
-3dda7c0e29fe2fddeac1ac7f998fa822  vddos-1.13.2-centos7
-29bed2e682a3672de69f0b978e8636b9  vddos-1.13.2-cloudlinux5
-91af2cab6a1daa35264ff27374516897  vddos-1.13.2-cloudlinux6
-23264072719c3b2b9c8eb2abf7414827  vddos-1.13.2-cloudlinux7
+b4d823410574f5bae637946d05b28676  vddos-1.13.2-centos5
+f05dff7add9881335796987ef2f6e6d2  vddos-1.13.2-centos6
+228fc737e1cd9a9fd9ef1392b18bdada  vddos-1.13.2-centos7
+7e817fe10ad6261a647fb01a71824e08  vddos-1.13.2-cloudlinux5
+f6dc58afe128ad4fa320d2e7500ca2e1  vddos-1.13.2-cloudlinux6
+3d36a01c2b44826bdf8b615609349393  vddos-1.13.2-cloudlinux7
 f079938ebecbf096bb8a14b50487327d  vddos-1.13.2.tar.gz
 50f8880098a324634ac6a837bce6ae3d  vddosw3data.js.txt
