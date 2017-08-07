@@ -1,3 +1,11 @@
+*vDDoS-1.13.3:
++Fix bug
++Fix Monitor
++Nginx-1.13.3
++Openssl-1.0.2l
++Python-2.7.13
+
+
 *vDDoS-1.13.2:
 +Fix bug
 +Fix Javascript turn on
